@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/b68c648d-98ed-4475-83da-9e4b73db3bdd" />
+
 # OncoResponse AI
 
 OncoResponse AI is a Streamlit dashboard for exploring cancer drug sensitivity from gene expression data. It links genomics and pharmacology by training a machine learning model to predict drug response and then surfaces the most informative biomarkers behind that prediction.
