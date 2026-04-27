@@ -1,0 +1,8 @@
+__pycache__/
+.DS_Store
+.streamlit/secrets.toml
+data_cache/
+raw_data/
+processed_data/
+gene_expression.csv
+drug_response.csv
